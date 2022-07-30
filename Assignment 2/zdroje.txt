@@ -1,0 +1,3 @@
+obrazky: https://www.kaggle.com/kmader/food41
+flasky: https://drive.google.com/drive/folders/17hfQRibdK-FNBrZXC6Akyrwdy6GilA69?usp=sharing
+
